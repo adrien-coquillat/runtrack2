@@ -51,7 +51,7 @@
 
 
 
-    echo(leetspeak("nique ta mere enculé"));
+    echo(leetspeak("Bonjour Madame monsieur Le President"));
 
 
 
